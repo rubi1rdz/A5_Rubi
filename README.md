@@ -16,5 +16,5 @@ Bay Area (4.2-9.79)
 CA (2.7 - 9.79)
 
 ArcGIS
-Link map: https://arcg.is/050q5P
+- Link map: https://arcg.is/050q5P
 
