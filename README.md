@@ -1,8 +1,11 @@
 # A5_Rubi
 
 Excel Part (4 skew analysis)
+
 Data Set: "POVERTY STATUS IN THE PAST 12 MONTHS BY AGE (HISPANIC OR LATINO)" 
+
 Geographic regions: US, CA (2016), CA (2011), Santa Clara County (2016)
+
 Google Link: https://docs.google.com/spreadsheets/d/1a1QFJUzHTFGepKzEQYuQH7nQe-0Z15qCkaqYQRXygZ8/edit?usp=sharing
 
 R Part (9 + 58 skew analysis)
